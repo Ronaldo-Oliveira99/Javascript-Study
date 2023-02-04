@@ -1,2 +1,2 @@
 # Javascript-Study
-Javascript studies and tests
+Javascript studies and test
